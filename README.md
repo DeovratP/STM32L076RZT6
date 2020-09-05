@@ -1,5 +1,7 @@
 # STM32L076RZT6
 
+https://www.st.com/en/evaluation-tools/nucleo-l073rz.html#resource
+
 RGBLED (left)
 PA0 -
 PA1 B
